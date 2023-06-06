@@ -1,5 +1,5 @@
 # animation-vue
-
+vueを使ったanimationの練習
 ## Project setup
 ```
 npm install
